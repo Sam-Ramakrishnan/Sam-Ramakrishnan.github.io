@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Madison Bus Tracker
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Madison Bus Tracker](/sample_page)
+<img src="images/1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
