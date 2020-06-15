@@ -4,7 +4,7 @@
 
 ### Madison Bus Tracker
 
-[Madison Bus Tracker](/sample_page)
+[Madison Bus Tracker](/sample_page) \
 <img src="images/1.png?raw=true"/>
 
 ---
