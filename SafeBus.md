@@ -1,6 +1,6 @@
 ## SafeBus
 
-**Project description:** I developed this app to provide a more accurate alternative to the bus schedule apps currently available for Metro buses in the Madison area. This app updates a map with the live locations and ETA of Metro Buses in Madison, Wisconsin. Madison Metro Transit provided the back-end in the form of endpoints, which return data in JSON format. Madison Metro Transit also provided static csv data, which are required to interpret the JSON data, on their website. I used RESTful services to fetch data from the back end. The app then parses the data after reading the CSV files locally. Finally, it uses google maps API to update the position and eta of the busses on the map.
+**Project description:** While working at Rain Concert Technologies, I designed and developed the mobile application module of the [SafeBus](http://safebus.vsafehs.com/) bus tracking system. The system monitors movement of buses, their speeds, locations covered, traffic blocks and sends alerts to parents/users for violations, speeding, or deviations from normal route. The system has been adopted by various schools in Trivandrum (population: 1.6 million). 
 <br/><br/>
 [Go back to home page](https://sam-ramakrishnan.github.io/)
 
