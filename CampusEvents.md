@@ -4,8 +4,8 @@
 [Go back to home page](https://sam-ramakrishnan.github.io/)
 
 <img src="images/loginuser.png?raw=true" width="360"/> <img src="images/signup.png?raw=true" width="360"/> 
-<img src="images/list.png?raw=true"/><img src="images/mapp.png?raw=true"/>
-<img src="images/addevent2.png?raw=true"/><img src="images/pickmap.png?raw=true"/>
+<img src="images/list.png?raw=true" width="360"/><img src="images/mapp.png?raw=true" width="360"/>
+<img src="images/addevent2.png?raw=true" width="360"/><img src="images/pickmap.png?raw=true" width="360"/>
 
 
 
