@@ -11,8 +11,3 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
-body {
-  font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Arial,sans-serif;
-}
-
