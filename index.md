@@ -20,7 +20,7 @@
 
 ---
 [SheTaxi](/SheTaxi) <br/><br/>
-<img src="images/shetaxi.PNG?raw=true"/>
+<img src="images/shetaxi.png?raw=true"/>
 
 ---
 
