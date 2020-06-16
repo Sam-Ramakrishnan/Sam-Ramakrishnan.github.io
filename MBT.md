@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## Madison Bus Tracker
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** This app updates a map with the live locations and ETA of Metro Buses in Mandison, Wisconsin. Madison Metro Transit provided the back-end in the form of endpoints, which return data in JSOn format. Madison Metro Transit also provided static csv data, which are required to interprete the JSON data, on their website. I used RESTful services to fetch data from the back end. The app then parses the data, after reading the CSV files locally. Finally, it uses google maps api to update the position and eta of the busses on map. This is available to download on [Google Play Store](https://https://play.google.com/store/apps/details?id=com.samramakrishnan.campusbustracker).
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
