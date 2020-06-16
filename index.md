@@ -11,7 +11,7 @@
 <img src="images/login.png?raw=true" width="360"/>
 
 ---
-[MHealth Tanzania](/MHealth)
+[MHealth Tanzania](/MHealth) <br/><br/>
 <img src="images/flowchart.jpg?raw=true"/>
 
 ---
