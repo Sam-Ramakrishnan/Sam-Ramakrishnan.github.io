@@ -4,8 +4,7 @@
 
 [Go back to home page](https://sam-ramakrishnan.github.io/)
 
-<img src="images/1.png?raw=true" width="360"/>
-<img src="images/2.png?raw=true" width="360"/>
+<img src="images/1.png?raw=true" width="360"/> <img src="images/2.png?raw=true" width="360"/>
 <img src="images/3.png?raw=true"/>
 <img src="images/4.png?raw=true"/>
 
