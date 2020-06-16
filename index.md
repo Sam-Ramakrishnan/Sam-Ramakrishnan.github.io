@@ -16,7 +16,7 @@
 
 ---
 [MHealth Tanzania](/SafeBus) <br/><br/>
-<img src="images/safebus_site.png?raw=true"/>
+<img src="images/safebus_site.PNG?raw=true"/>
 
 ---
 
