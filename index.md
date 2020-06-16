@@ -15,7 +15,7 @@
 <img src="images/flowchart.jpg?raw=true"/>
 
 ---
-[MHealth Tanzania](/SafeBus) <br/><br/>
+[SafeBus](/SafeBus) <br/><br/>
 <img src="images/safebus_site.PNG?raw=true"/>
 
 ---
