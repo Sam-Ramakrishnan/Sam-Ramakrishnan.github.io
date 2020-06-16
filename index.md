@@ -7,8 +7,8 @@
 <img src="images/1small.png?raw=true"/>
 
 ---
-[Campus Events](/pdf/CampusEvents)
-<img src="images/login.png?raw=true"/>
+[Campus Events](/CampusEvents) <br/><br/>
+<img src="images/login.png?raw=true" width="360"/>
 
 ---
 [Project 3 Title](http://example.com/)
