@@ -2,9 +2,8 @@
 
 ---
 
-### Madison Bus Tracker
 
-[Madison Bus Tracker](/sample_page)  <br/><br/>
+[Madison Bus Tracker](/MBT)  <br/><br/>
 <img src="images/1small.png?raw=true"/>
 
 ---
