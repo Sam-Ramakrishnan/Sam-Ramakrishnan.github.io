@@ -4,5 +4,6 @@
 <br/><br/>
 [Go back to home page](https://sam-ramakrishnan.github.io/)
 
-<img src="images/iotherscreens.jpg?raw=true"/>    <img src="images/householdregistration.jpg?raw=true" /> 
+<img src="images/i1.jpg?raw=true" width="360"/>    <img src="images/i2.jpg?raw=true" width="360"/> 
+<img src="images/i3.jpg?raw=true"/>    <img src="images/householdregistration.jpg?raw=true" /> 
 
