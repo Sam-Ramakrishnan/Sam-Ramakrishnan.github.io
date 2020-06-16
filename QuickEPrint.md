@@ -5,5 +5,5 @@
 [Go back to home page](https://sam-ramakrishnan.github.io/)
 
 
-<img src="images/q2.jpg?raw=true" width="360"/>    <img src="images/q3.jpg?raw=true" width="360"/> 
+<img src="images/q2.jpg?raw=true" width="360"/>    
 
