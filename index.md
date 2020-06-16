@@ -11,8 +11,8 @@
 <img src="images/login.png?raw=true" width="360"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MHealth Tanzania](/MHealth)
+<img src="images/flowchart.jpg?raw=true"/>
 
 ---
 
